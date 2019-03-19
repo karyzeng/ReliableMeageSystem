@@ -1,7 +1,7 @@
 package com.zzp.activemq.common;
 
 /**
- * ≈‰÷√±‰¡ø
+ * ÈÖçÁΩÆ
  * @author karyzeng
  * @since 2019.03.19
  */
