@@ -1,5 +1,10 @@
 package com.zzp.activemq.common;
 
+/**
+ * ≈‰÷√±‰¡ø
+ * @author karyzeng
+ * @since 2019.03.19
+ */
 public class Constants {
 
     public static final String MQ_NAME = "user";
